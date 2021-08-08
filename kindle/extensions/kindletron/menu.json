@@ -1,0 +1,16 @@
+{
+	"items": [
+	{
+		"name": "Kindletron",
+		"priority": -998,
+		"items": [
+		{
+			"if": "\"KindleTouch\" -m \"KindlePaperWhite\" -m \"KindlePaperWhite2\" -m \"KindleBasic\" -m \"KindleVoyage\" -m \"KindlePaperWhite3\" -m \"KindleOasis\" -m  \"KindleBasic2\" -m \"KindleOasis2\" -m \"KindlePaperWhite4\" -m \"KindleBasic3\" -m \"KindleOasis3\" -m || || || || || || || || || || ||",
+			"name": "Start Kindletron",
+			"priority": 1,
+			"action": "./bin/kindletron.sh"
+		}
+		]
+	}
+	]
+}

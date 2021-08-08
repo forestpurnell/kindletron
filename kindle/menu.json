@@ -1,5 +1,0 @@
-{
-	"items": [
-		{"name": "kindleberrypi", "priority": 1, "action": "while : ; do bash /mnt/us/extensions/kindleberrypi/bin/kindleberrypi.sh; done"}
-	]
-}
